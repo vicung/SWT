@@ -1,0 +1,1 @@
+Kleines Nim Spiel ohne GUI nur auf Konsole

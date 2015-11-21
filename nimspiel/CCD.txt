@@ -1,0 +1,6 @@
+Für die Clean Code Development Aufgabe habe ich Das Streichholz Nim Spiel programmiert.
+Es gibt 4 Klassen: Die NimSpiel-Klasse mit der main-Methode, die Spieler-Parentklasse und die beiden Computer- und Mensch-Childklassen.
+Durch die Objektorientierte Programmierung bleibt der Code erweiterbar, außerdem hat jede Klasse nur eine einzige Verantwortung.
+Die Namen der Klassen, Methoden, usw. habe ich möglichst so gewählt, dass der Code selbsterklärend ist. 
+Kommentare habe ich versucht auf das nötigste zu reduzieren. Ich habe darauf geachtet, dass keine Wiederholungen und Zyklen vorkommen.
+Zum Schluss habe ich noch einmal per SonarQube den Code überprüft, wobei das Rating auch sehr gut ausgefallen ist.
